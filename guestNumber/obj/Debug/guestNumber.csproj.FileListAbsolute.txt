@@ -1,0 +1,6 @@
+D:\code\guestNumber\guestNumber\bin\Debug\guestNumber.exe.config
+D:\code\guestNumber\guestNumber\bin\Debug\guestNumber.exe
+D:\code\guestNumber\guestNumber\bin\Debug\guestNumber.pdb
+D:\code\guestNumber\guestNumber\obj\Debug\guestNumber.csprojResolveAssemblyReference.cache
+D:\code\guestNumber\guestNumber\obj\Debug\guestNumber.exe
+D:\code\guestNumber\guestNumber\obj\Debug\guestNumber.pdb
